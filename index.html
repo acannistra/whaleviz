@@ -57,7 +57,7 @@ d3.json("data/combined.json", function(error, us) {
 	
 	var projection = d3.geo.mercator()
 		.center([-120.670766,39.423956])
-	    .scale(3700)
+	    .scale(3000)
 	var path = d3.geo.path().projection(projection).pointRadius(2.4);
 	svg.append("path").datum(states).attr("d", path).attr("class", "state-boundary");
 

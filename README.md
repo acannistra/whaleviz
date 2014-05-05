@@ -1,6 +1,8 @@
 # Whale Viz
 > A project to visualize whale sightings off the coast of California (and to learn [D3](http://www.d3js.org))
+
 ![whaleviz](https://cdn.rawgit.com/acannistra/whaleviz/master/4-5-2014_screenshot.png)
+
 ## Converting Whale Files
 Performed
 

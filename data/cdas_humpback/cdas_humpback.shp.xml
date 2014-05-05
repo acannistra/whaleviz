@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>National Oceanic and Atmospheric Association (NOAA)/National Ocean Service (NOS)/National Centers for Coastal Ocean Science (NCCOS)/Center for Coastal Ocean Science (CCMA)/Biogeography Team </origin>
+				<pubdate>200601</pubdate>
+				<title>Humpback whale at-sea density off California</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://ccma.nos.noaa.gov/ecosystems/sanctuaries/chanisl_nms.html </onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>National Oceanic and Atmospheric Association (NOAA)/National Ocean Service (NOS)/National Centers for Coastal Ocean Science (NCCOS)/Center for Coastal Ocean Science (CCMA)/Biogeography Team </origin>
+						<pubdate>200601</pubdate>
+						<title>A Biogeographic Assessment of the Channel Islands National Marine Sanctuary: A Review of Boundary Expansion Concepts for NOAA's National Marine Sanctuary Program </title>
+						<geoform>vector digital data</geoform>
+						<onlink>http://ccma.nos.noaa.gov/ecosystems/sanctuaries/chanisl_nms.html </onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">cdas_humpback</ftname>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>The National Marine Sanctuary Program (NMSP) is currently updating and revising the management plans for each of its 13 sanctuaries. This process, which is open to the public, enables each site to revisit the reasons for sanctuary designation and assess whether they are meeting their goals, as well as to set new goals consistent with the mandates of the National Marine Sanctuaries Act. Issues raised by the public during this process are evaluated and a determination is made as to whether they will be incorporated into the updated plan. Many of these issues focus on topics such as the implementation of marine zoning or sanctuary boundary adjustments, both of which require information on the distribution of resources within and around the sanctuary. Recognizing this, NMSP and NOAA’s National Centers for Coastal Ocean Science (NCCOS) formalized an agreement to collaborate in the revision process by developing such information through a series of biogeographic assessments conducted in selected sanctuaries. The resulting products are then supplied to sanctuary managers and staff for use in the policy and decision making process. This collaborative effort began along the west coast of the U.S. with the Cordell Bank, Gulf of Farallones, and Monterey Bay national marine sanctuaries, and is herein centered on the Channel Islands National Marine Sanctuary (CINMS).</abstract>
+			<purpose>This work examines marine mammal density patterns within coastal California waters, in particular within and adjacent to the Channel Islands National Marine Sanctuary. This work will complement and build upon a similar effort currently being conducted by the BP for three sanctuaries in central California (Cordell Bank, Gulf of the Farallones, and Monterey Bay National Marine Sanctuaries). The biogeographic assessment for these three sanctuaries was conducted to identify important biological zones, time periods, and ecological linkages within an analysis area that extends from Point Arena in the north to Point Sal in the south. Furthermore, this study will incorporate data and information from a comprehensive west coast assessment completed by NOS in the late 1980s that resulted in the "West Coast of North America, Coastal and Ocean Zones, Strategic Assessment: Data Atlas". This Atlas contains maps of key biological, physical, and economic characteristics of the marine environment of the West Coast. The Atlas complemented the BP's Estuarine Living Marine Resources Program (ELMR) studies to define the biological and physical characteristics of adjacent estuarine systems, and included biogeographic analyses to define estuarine assemblages and inshore-offshore linkages between ecosystems.</purpose>
+			<supplinf>In compliance with the National Environmental Policy Act, the National Marine Sanctuary Program will incorporate this assessment with cultural and socio-economic analyses to prepare a Supplemental Environmental Impact Statement to fully analyze boundary change concepts.</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2006</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-124.833300</westbc>
+				<eastbc Sync="TRUE">-117.792617</eastbc>
+				<northbc Sync="TRUE">38.934999</northbc>
+				<southbc Sync="TRUE">32.288040</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">-418945.935305</leftbc>
+				<rightbc Sync="TRUE">191202.680545</rightbc>
+				<topbc Sync="TRUE">101930.382733</topbc>
+				<bottombc Sync="TRUE">-626210.510062</bottombc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>CoRIS Theme Thesaurus Version 1.0</themekt>
+				<themekey>EARTH SCIENCE &gt; Oceans &gt; Marine Biology &gt; Marine Mammals</themekey>
+			</theme>
+			<place>
+				<placekey>California</placekey>
+				<placekey>Channel Islands</placekey>
+				<placekt>None</placekt></place>
+			<stratum>
+				<stratkey>Aerial surveys</stratkey>
+				<stratkt>None</stratkt></stratum>
+		</keywords>
+		<accconst>This data set is in the public domain.</accconst>
+		<useconst>This data set is provided "as-is" without warranty of any kind. The user assumes all responsibility for the accuracy and suitability of this data set for a particular purpose.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Randy Clark</cntper>
+					<cntorg>NOAA/NCCOS/CCMA/Biogeography Team</cntorg>
+				</cntperp>
+				<cntpos>Biogeography Team/CINMS Biogeographic Assessment Project Manager </cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1305 East-West Hwy.</address>
+					<address>SSMC 4, N/SCI-1</address>
+					<city>Silver Spring</city>
+					<state>Maryland</state>
+					<postal>20910</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>301-713-3028 x157</cntvoice>
+				<cntfax>301-713-4384</cntfax>
+				<cntemail>randy.clark@noaa.gov</cntemail>
+				<hours>8-5</hours>
+			</cntinfo>
+		</ptcontac>
+		<datacred>Aerial survey data used for production of this shapefile are available on CD-ROM, Marine Mammal and Seabird Computer Database Analysis System, Washington, Oregon, and California (1975-1997). See Source Information for additional citations of contributors to this data set.</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+	</idinfo>
+	<dataqual>
+		<logic>All shapefile attributes were checked for consistency of appropriate range values.</logic>
+		<complete>All shapefile cells have attribute information.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Department of the Interior, Minerals Management Service, Pacific OCS Region</origin>
+						<pubdate>200103</pubdate>
+						<title>Marine Mammal and Seabird Computer Database Analysis System, Washington, Oregon, and California 1975-1997, Version 2.1</title>
+						<geoform>vector digital data</geoform>
+						<onlink>http://green.env.duke.edu/datasets</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>CD-ROM</typesrc>
+			</srcinfo>
+			<procstep>
+				<procdesc Sync="TRUE">Dataset copied.</procdesc>
+				<procdate>Unknown</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Randy Clark</cntper>
+							<cntorg>National Oceanic and Atmospheric Association (NOAA)/National Ocean Service (NOS)/National Centers for Coastal Ocean Science (NCCOS)/Center for Coastal Ocean Science (CCMA)/Biogeography Team</cntorg>
+						</cntperp>
+						<cntpos>Biogeography Team/CINMS Biogeographic Assessment Project Manager </cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>1305 East-West Hwy.</address>
+							<address>SSMC 4, N/SCI-1</address>
+							<city>Silver Spring</city>
+							<state>Maryland</state>
+							<postal>20910</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>301-713-3028 x157</cntvoice>
+						<cntfax>301-713-4384</cntfax>
+						<cntemail>randy.clark@noaa.gov</cntemail>
+						<hours>8-5</hours>
+					</cntinfo>
+				</proccont>
+				<date Sync="TRUE">20051209</date>
+				<time Sync="TRUE">14391700</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\RANDY~1.CLA\LOCALS~1\Temp\xml6CD.tmp</srcused>
+				<date Sync="TRUE">20060119</date>
+				<time Sync="TRUE">08553900</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\RANDY~1.CLA\LOCALS~1\Temp\xml72F.tmp</srcused>
+				<date Sync="TRUE">20060119</date>
+				<time Sync="TRUE">09100900</time>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\RANDY~1.CLA\LOCALS~1\Temp\xml744.tmp</srcused><date Sync="TRUE">20060119</date><time Sync="TRUE">10181400</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">T:\BIOGEO\Projects\CINMS\Data_CD\Birds_Mammals\cdas_humpback</srcused><date Sync="TRUE">20060120</date><time Sync="TRUE">16385900</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="cdas_humpback">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">204</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="cdas_humpback">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+				<spindex Sync="TRUE">TRUE</spindex>
+				<efeageom Sync="TRUE">Point</efeageom>
+				<efeacnt Sync="TRUE">204</efeacnt>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.001024</absres>
+						<ordres Sync="TRUE">0.001024</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Albers Conical Equal Area</mapprojn><albers><stdparll Sync="TRUE">34.000000</stdparll><stdparll Sync="TRUE">40.500000</stdparll><longcm Sync="TRUE">-120.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">-4000000.000000</fnorth></albers></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_North_American_1927</geogcsn>
+				<projcsn Sync="TRUE">teale</projcsn>
+			</cordsysn>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="cdas_humpback">
+			<enttyp>
+				<enttypl Sync="TRUE">cdas_humpback</enttypl>
+				<enttypc Sync="TRUE">204</enttypc>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypd>Humpback whale density off California</enttypd><enttypds>MMS</enttypds></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr><attrlabl Sync="TRUE">FID_1</attrlabl><attalias Sync="TRUE">FID_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr><attr>
+				<attrlabl Sync="TRUE">ID</attrlabl>
+				<attrdef>Station ID</attrdef>
+				<attrdomv>
+					<udom>Unique station ID</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ID</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">STUDY</attrlabl>
+				<attrdef>Study Area</attrdef>
+				<attrdomv>
+					<udom>This field identifies the companion effort records accessed by programs for calculating density.  In this database, sighting records have one of the following codes: </udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>SH - Southern California Bight High-altitude mammals</edomv>
+					</edom>
+					<edom>
+						<edomv>SM - Southern California Bight Low-altitude mammals</edomv>
+					</edom>
+					<edom>
+						<edomv>SS - Southern California Bight Ship transect, birds and mammals</edomv>
+					</edom>
+					<edom>
+						<edomv>CH - Central/Northern California High-altitude mammals</edomv>
+					</edom>
+					<edom>
+						<edomv>CL - Central/Northern California Low-altitude birds and mammals</edomv>
+					</edom>
+					<edom>
+						<edomv>SX - Southern California Bight MMS Surveys</edomv>
+					</edom>
+					<edom>
+						<edomv>OS - OSPR Surveys</edomv>
+					</edom>
+					<edom>
+						<edomv>OM - Oregon/Washington Marine Mammal Surveys</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">STUDY</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">PLATFORM</attrlabl>
+				<attrdef>Observer platform</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>H = High altitude aerial observations (marine mammals)</edomv>
+					</edom>
+					<edom>
+						<edomv>A = Low altitude aerial observations (all taxa)</edomv>
+					</edom>
+					<edom>
+						<edomv>S = Shipboard survey</edomv>
+					</edom>
+					<edom>
+						<edomv>B = Observations from shore stations (otters)</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">PLATFORM</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">ON</attrlabl>
+				<attrdef>Observation information</attrdef>
+				<attrdomv>
+					<udom>This field indicates whether the observation should be used for density calculations.</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Y = Yes, observation was within the transect corridor and effort data was being collected.</edomv>
+					</edom>
+					<edom>
+						<edomv>N = No, observation was NOT within the transect corridor and/or effort data was NOT being collected.</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">ON</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">EFFDATE</attrlabl>
+				<attrdef>Date</attrdef>
+				<attrdomv>
+					<udom>This field identifies the corresponding date in the effort database at the finest resolution possible for the particular dataset. For earlier studies, this may be the midpoint of the month in which the survey occurred.  For some other studies it is the midpoint of the date range of the survey.  For the most recent studies it is the date of the observation itself.   Format=YYYYMMDD</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">EFFDATE</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DATE_</attrlabl>
+				<attrdef>date of observation</attrdef>
+				<attrdomv>
+					<udom>This field identifies the date of the observation.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DATE_</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TIME</attrlabl>
+				<attrdef>Time of observation</attrdef>
+				<attrdomv>
+					<udom>24 hour clock is used. Seconds may be blank, especially in earlier surveys.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TIME</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SPECIES</attrlabl>
+				<attrdef>Species code</attrdef>
+				<attrdomv>
+					<udom>Species code</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SPECIES</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">NUMBER</attrlabl>
+				<attrdef>Abundance</attrdef>
+				<attrdomv>
+					<udom>Number of animals counted in sighting</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NUMBER</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Latitude</attrlabl>
+				<attrdef>Latitude</attrdef>
+				<attrdomv>
+					<udom>Decimal degrees of latitude(Format=DDDD.DDDDD)</udom>
+				</attrdomv>
+				<atnumdec Sync="TRUE">11</atnumdec>
+				<attalias Sync="TRUE">Latitude</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr><attrlabl Sync="TRUE">DECLONG</attrlabl><attalias Sync="TRUE">DECLONG</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr>
+				<attrlabl Sync="TRUE">WIDTH</attrlabl>
+				<attrdef>Transect width</attrdef>
+				<attrdomv>
+					<udom>Search corridor width (km)</udom>
+				</attrdomv>
+				<atnumdec Sync="TRUE">11</atnumdec>
+				<attalias Sync="TRUE">WIDTH</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">NEWBORNS</attrlabl>
+				<attrdef>Number of newborns</attrdef>
+				<attrdomv>
+					<udom>Number of newborns in sighting</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NEWBORNS</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">MALES</attrlabl>
+				<attrdef>Adult male abundance</attrdef>
+				<attrdomv>
+					<udom>Number of adult males in sighting</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MALES</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">FEMALES</attrlabl>
+				<attrdef>Adult female abundance</attrdef>
+				<attrdomv>
+					<udom>Number of adult females in sighting</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FEMALES</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">AGE</attrlabl>
+				<attrdef>Age code</attrdef>
+				<attrdomv>
+					<udom>Age code used for seabirds and pinnipeds, </udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0= not noted or not separable</edomv>
+					</edom>
+					<edom>
+						<edomv>1= adult</edomv>
+					</edom>
+					<edom>
+						<edomv>2= juvenile</edomv>
+					</edom>
+					<edom>
+						<edomv>3= young of the year</edomv>
+					</edom>
+					<edom>
+						<edomv>4= nest</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">AGE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SEX</attrlabl>
+				<attrdef>Gender code</attrdef>
+				<attrdomv>
+					<udom>Gender code used for seabirds and pinnipeds,</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1 = male</edomv>
+					</edom>
+					<edom>
+						<edomv>2 = female</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">SEX</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">PLUMAGE</attrlabl>
+				<attrdef>Used for seabirds.</attrdef>
+				<attalias Sync="TRUE">PLUMAGE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">ASSOC</attrlabl>
+				<attrdef>coded associations with observed animal</attrdef>
+				<attrdomv>
+					<udom>Coded associations,</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1= cetacean</edomv>
+					</edom>
+					<edom>
+						<edomv>2= pinniped</edomv>
+					</edom>
+					<edom>
+						<edomv>3= bird</edomv>
+					</edom>
+					<edom>
+						<edomv>4= cetacean and bird</edomv>
+					</edom>
+					<edom>
+						<edomv>5= cetacean and pinniped</edomv>
+					</edom>
+					<edom>
+						<edomv>6= pinniped and bird</edomv>
+					</edom>
+					<edom>
+						<edomv>7= cetacean, bird, and pinniped</edomv>
+					</edom>
+					<edom>
+						<edomv>8= fish (e.g., bait balls) </edomv>
+					</edom>
+					<edom>
+						<edomv>9= kelp</edomv>
+					</edom>
+					<edom>
+						<edomv>10= plankton</edomv>
+					</edom>
+					<edom>
+						<edomv>11= flotsam</edomv>
+					</edom>
+					<edom>
+						<edomv>12= oil</edomv>
+					</edom>
+					<edom>
+						<edomv>13= turtle</edomv>
+					</edom>
+					<edom>
+						<edomv>14= blue shark</edomv>
+					</edom>
+					<edom>
+						<edomv>15= sea otter</edomv>
+					</edom>
+					<edom>
+						<edomv>16= color change/convergence</edomv>
+					</edom>
+					<edom>
+						<edomv>17= slick/Langmuir cell</edomv>
+					</edom>
+					<edom>
+						<edomv>18= vessel</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">ASSOC</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DIRECTION</attrlabl>
+				<attrdef>Animal movement</attrdef>
+				<attrdomv>
+					<udom>Direction of movement; degrees magnetic</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DIRECTION</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">GROUP</attrlabl>
+				<attrdef>Group formation</attrdef>
+				<attrdomv>
+					<udom>Cetacean group formation:</udom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1= ranked/chorus line</edomv>
+					</edom>
+					<edom>
+						<edomv>2= tightly grouped/discoidal</edomv>
+					</edom>
+					<edom>
+						<edomv>3= spread with subschools</edomv>
+					</edom>
+					<edom>
+						<edomv>4= spread with subgroups</edomv>
+					</edom>
+					<edom>
+						<edomv>5= scattered</edomv>
+					</edom>
+					<edom>
+						<edomv>6= linear of file</edomv>
+					</edom>
+					<edom>
+						<edomv>7= pod</edomv>
+					</edom>
+					<edom>
+						<edomv>8= singleton</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">GROUP</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">BEHAVIOR</attrlabl>
+				<attrdef>behavior</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>1 = mammals- aerial</edomv>
+					</edom>
+					<edom>
+						<edomv>2 = mammals- feeding</edomv>
+					</edom>
+					<edom>
+						<edomv>3 = mammals- sexual</edomv>
+					</edom>
+					<edom>
+						<edomv>4 = mammals- mother/young</edomv>
+					</edom>
+					<edom>
+						<edomv>5 = mammals- synchronous diving</edomv>
+					</edom>
+					<edom>
+						<edomv>6 = mammals- aggressive</edomv>
+					</edom>
+					<edom>
+						<edomv>7 = mammals- bowriding</edomv>
+					</edom>
+					<edom>
+						<edomv>8 = mammals- non specific contact/play</edomv>
+					</edom>
+					<edom>
+						<edomv>9 = mammals- breezing/rapid swimming</edomv>
+					</edom>
+					<edom>
+						<edomv>10 = mammals- porpoising</edomv>
+					</edom>
+					<edom>
+						<edomv>11 = mammals- milling</edomv>
+					</edom>
+					<edom>
+						<edomv>12 = mammals- swimming</edomv>
+					</edom>
+					<edom>
+						<edomv>13 = mammals- spy hop</edomv>
+					</edom>
+					<edom>
+						<edomv>14 = mammals- breach</edomv>
+					</edom>
+					<edom>
+						<edomv>15 = mammals- fluking</edomv>
+					</edom>
+					<edom>
+						<edomv>16 = mammals- loafing/rafting</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">BEHAVIOR</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">ALTITUDE</attrlabl>
+				<attrdef>Plane altitude</attrdef>
+				<attrdomv>
+					<udom>Feet above sea level (ASL)</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ALTITUDE</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DECLINE</attrlabl>
+				<attrdef>Declination angle, nearest degree </attrdef>
+				<attalias Sync="TRUE">DECLINE</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DISTANCE</attrlabl>
+				<attrdef>Direct distance when first sighted; unit= feet </attrdef>
+				<attalias Sync="TRUE">DISTANCE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERPDIST</attrlabl>
+				<attrdef>Distance at right-angle to track line; unit= feet</attrdef>
+				<attalias Sync="TRUE">PERPDIST</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">RELDIR</attrlabl>
+				<attrdef>Relative sighting direction, i.e., bearing, degrees magnetic </attrdef>
+				<attalias Sync="TRUE">RELDIR</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DISTCODE</attrlabl>
+				<attrdef>For seabirds</attrdef>
+				<attalias Sync="TRUE">DISTCODE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">COMMENT</attrlabl>
+				<attrdef>Additional details</attrdef>
+				<attalias Sync="TRUE">COMMENT</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WEATHER</attrlabl>
+				<attrdef>Weather</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>1= clear</edomv>
+					</edom>
+					<edom>
+						<edomv>2= light fog</edomv>
+					</edom>
+					<edom>
+						<edomv>3= heavy fog</edomv>
+					</edom>
+					<edom>
+						<edomv>4= light rain</edomv>
+					</edom>
+					<edom>
+						<edomv>5= heavy rain</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">WEATHER</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">CLOUDS</attrlabl>
+				<attrdef>Cloud cover code:</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>1= clear</edomv>
+					</edom>
+					<edom>
+						<edomv>2= 25% overcast</edomv>
+					</edom>
+					<edom>
+						<edomv>3= 50% overcast</edomv>
+					</edom>
+					<edom>
+						<edomv>4= 75% overcast</edomv>
+					</edom>
+					<edom>
+						<edomv>5= 100% overcast</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">CLOUDS</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WIND</attrlabl>
+				<attrdef>Direction from, degrees magnetic</attrdef>
+				<attalias Sync="TRUE">WIND</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SEASTATUS</attrlabl>
+				<attrdef>Beaufort scale</attrdef>
+				<attalias Sync="TRUE">SEASTATUS</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">GLAREDIR</attrlabl>
+				<attrdef>Glare segment start (01-12 from clock, with 12 directly ahead on transect), followed by glare segment end (01-12).</attrdef>
+				<attalias Sync="TRUE">GLAREDIR</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">GLARE</attrlabl>
+				<attrdef>GLARE PERCENT</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>1= no glare</edomv>
+					</edom>
+					<edom>
+						<edomv>2= 20%</edomv>
+					</edom>
+					<edom>
+						<edomv>3= 40%</edomv>
+					</edom>
+					<edom>
+						<edomv>4= 60%</edomv>
+					</edom>
+					<edom>
+						<edomv>5= 80%</edomv>
+					</edom>
+					<edom>
+						<edomv>6= 100%</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">GLARE</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SEATEMP</attrlabl>
+				<attrdef>Sea Surface Temperature, nearest 0.1 degree C;  Note: -99= inoperative PRT or no measurements taken</attrdef>
+				<attalias Sync="TRUE">SEATEMP</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">RECORD</attrlabl>
+				<attrdef>Record Number in this database.</attrdef>
+				<attalias Sync="TRUE">RECORD</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Longitude</attrlabl>
+				<attrdef>Longitude</attrdef>
+				<attrdomv>
+					<udom>Decimal degrees of longitude(Format=DDDD.DDDDD)</udom>
+				</attrdomv>
+				<atnumdec Sync="TRUE">11</atnumdec>
+				<attalias Sync="TRUE">Longitude</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr><attrlabl Sync="TRUE">FID_2</attrlabl><attalias Sync="TRUE">FID_2</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr><attr><attrlabl Sync="TRUE">LABEL</attrlabl><attalias Sync="TRUE">LABEL</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">14</attwidth></attr><attr><attrlabl Sync="TRUE">UNIQUEID</attrlabl><attalias Sync="TRUE">UNIQUEID</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">5</attwidth></attr></detailed>
+		<overview>
+			<dsoverv>This data contributes to the understanding of marine mammal density patterns within coastal California waters, in particular within and adjacent to the Channel Islands National Marine Sanctuary. This work will complement and build upon a similar effort currently being conducted by the BP for three sanctuaries in central California (Cordell Bank, Gulf of the Farallones, and Monterey Bay National Marine Sanctuaries).</dsoverv>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Michael McCrary</cntper>
+					<cntorg>Minerals Management Service</cntorg>
+				</cntperp>
+				<cntemail>michael_mccrary@mms.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>Data available on CD</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">0.006</transize>
+					<dssize Sync="TRUE">0.006</dssize>
+				</digtinfo>
+			</digform>
+			<fees>unknown</fees>
+		</stdorder>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>unknown</caldate>
+					<time>unknown</time>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+		<distliab>This data set is provided "as-is" without warranty of any kind. The user assumes all responsibility for the accuracy and suitability of this data set for a particular purpose.</distliab><custom>Order No. 1435-01-97-PO-14206</custom></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20060120</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Randy Clark</cntper>
+					<cntorg>NOAA/NCCOS/CCMA/Biogeography Team </cntorg>
+				</cntperp>
+				<cntpos>Biogeography Team/CINMS Biogeographic Assessment Project Manager </cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1305 East-West Hwy</address>
+					<address>SSMC 4, N/SCI-1</address>
+					<city>Silver Spring</city>
+					<state>Maryland</state>
+					<postal>20910</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>301-713-3028 x157</cntvoice>
+				<cntfax>301-713-4384</cntfax>
+				<cntemail>randy.clark@noaa.gov</cntemail>
+				<hours>8-5</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metsi>
+			<metsc>Unclassified</metsc>
+		</metsi>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"></languageCode>
+		</dataLang>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">-124.8333</westBL>
+			<northBL Sync="TRUE">38.934999</northBL>
+			<southBL Sync="TRUE">32.28804</southBL>
+			<eastBL Sync="TRUE">-117.792617</eastBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+		<idCitation>
+			<resTitle Sync="TRUE">cdas_humpback</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"></PresFormCd>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">-418945.935305</westBL>
+					<northBL Sync="TRUE">101930.382733</northBL>
+					<southBL Sync="TRUE">-626210.510062</southBL>
+					<eastBL Sync="TRUE">191202.680545</eastBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+	</dataIdInfo>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<linkage Sync="TRUE">file://\\NCCOS-s-FS01\Zshared\cinms_cd\chap_6_data\cdas_humpback</linkage>
+					<orDesc Sync="TRUE">002</orDesc>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.006</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">Shapefile</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+	<Esri>
+		<CreaDate>20060120</CreaDate>
+		<ModDate>20060120</ModDate>
+		<ModTime>16385400</ModTime>
+		<SyncDate>20060120</SyncDate>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncTime>16385400</SyncTime>
+		<CreaTime>16385900</CreaTime>
+		<DataProperties>
+			<lineage>
+				<Process Name="Project_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project" Date="20060112" Time="121052">Project cdas_ashystormpetrel T:\BIOGEO\Projects\CINMS\Data_CD\Birds_Mammals\cdas_ashystormpetrel_2.shp PROJCS['teale',GEOGCS['GCS_North_American_1927',DATUM['D_North_American_1927',SPHEROID['Clarke_1866',6378206.4,294.9786982]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Albers'],PARAMETER['False_Easting',0.0],PARAMETER['False_Northing',-4000000.0],PARAMETER['Central_Meridian',-120.0],PARAMETER['Standard_Parallel_1',34.0],PARAMETER['Standard_Parallel_2',40.5],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]] #</Process>
+			</lineage>
+		</DataProperties>
+		<MetaID>{5002008A-8F44-4AFC-AD25-7AAADFAE9575}</MetaID></Esri>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"></CharSetCd>
+	</mdChar>
+	<mdDateSt Sync="TRUE">20060120</mdDateSt>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"></ScopeCd>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"></languageCode>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE">teale</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="001"></TopoLevCd>
+			</topLvl>
+			<geometObjs Name="cdas_humpback"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">204</geoObjCnt></geometObjs></VectSpatRep>
+	</spatRepInfo>
+</metadata>

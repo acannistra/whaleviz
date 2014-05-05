@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+.state-boundary {
+  fill: rgba(183, 220, 164, 0.23);
+  stroke: #777;
+  stroke-linejoin: round;
+}
+.whale-blue{
+	fill: black;
+	stroke-linejoin: round;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
+<script>
+
+var whale_colors = {
+	"MMBL" : "#3D5F99",
+	"MMOO" : "#FF7540",
+	"MMMN" : "red"
+}
+
+var whale_types = {
+	'cdas_bluewhale' : "Blue Whale",
+	'cdas_orca'      : "Orca",
+	'cdas_humpback'  : "Humpback Whale",
+	'cdas_minke'     : "Minke Whale"
+};
+var whale_data = []
+
+
+var width = 900,
+    height = 800;
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .attr("viewport-fill", "black");
+
+
+
+d3.json("data/combined.json", function(error, us) {
+	console.log(us)
+
+	var states = topojson.feature(us, us.objects.us_states);
+	
+	for (var type in whale_types){
+		console.log(type, us.objects[type])
+		whale_data.push(topojson.feature(us, us.objects[type]).features)
+	}
+	whale_data = _.flatten(whale_data);
+
+	
+	var projection = d3.geo.mercator()
+		.center([-120.670766,39.423956])
+	    .scale(3700)
+	var path = d3.geo.path().projection(projection).pointRadius(2.4);
+	svg.append("path").datum(states).attr("d", path).attr("class", "state-boundary");
+
+	//svg.append("path").datum(whales).attr("d", path).attr("class", "whale-blue");
+
+	svg.selectAll(".place-label")
+	    .data(whale_data)
+	  	.enter().append("circle")
+	    .attr("class", "place-label")
+	    .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
+	    .attr("dy", ".35em")
+	    .attr("r", function(d){ return d.properties.NUMBER })
+	    .attr('fill', function(d){return whale_colors[d.properties.SPECIES ]})
+	    .attr('fill-opacity', 0.7)
+	    .attr('stroke', 0.23)
+
+});
+
+
+
+</script>
+</body>

@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>National Oceanic and Atmospheric Association (NOAA)/National Ocean Service (NOS)/National Centers for Coastal Ocean Science (NCCOS)/Center for Coastal Ocean Science (CCMA)/Biogeography Team </origin>
+				<pubdate>200601</pubdate>
+				<title>Blue whale at-sea density off California</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://ccma.nos.noaa.gov/ecosystems/sanctuaries/chanisl_nms.html </onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>National Oceanic and Atmospheric Association (NOAA)/National Ocean Service (NOS)/National Centers for Coastal Ocean Science (NCCOS)/Center for Coastal Ocean Science (CCMA)/Biogeography Team </origin>
+						<pubdate>200601</pubdate>
+						<title>A Biogeographic Assessment of the Channel Islands National Marine Sanctuary: A Review of Boundary Expansion Concepts for NOAA's National Marine Sanctuary Program </title>
+						<geoform>vector digital data</geoform>
+						<onlink>http://ccma.nos.noaa.gov/ecosystems/sanctuaries/chanisl_nms.html </onlink>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">cdas_bluewhale</ftname>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>The National Marine Sanctuary Program (NMSP) is currently updating and revising the management plans for each of its 13 sanctuaries. This process, which is open to the public, enables each site to revisit the reasons for sanctuary designation and assess whether they are meeting their goals, as well as to set new goals consistent with the mandates of the National Marine Sanctuaries Act. Issues raised by the public during this process are evaluated and a determination is made as to whether they will be incorporated into the updated plan. Many of these issues focus on topics such as the implementation of marine zoning or sanctuary boundary adjustments, both of which require information on the distribution of resources within and around the sanctuary. Recognizing this, NMSP and NOAA’s National Centers for Coastal Ocean Science (NCCOS) formalized an agreement to collaborate in the revision process by developing such information through a series of biogeographic assessments conducted in selected sanctuaries. The resulting products are then supplied to sanctuary managers and staff for use in the policy and decision making process. This collaborative effort began along the west coast of the U.S. with the Cordell Bank, Gulf of Farallones, and Monterey Bay national marine sanctuaries, and is herein centered on the Channel Islands National Marine Sanctuary (CINMS).</abstract>
+			<purpose>This work examines marine mammal patterns within coastal California waters, in particular within and adjacent to the Channel Islands National Marine Sanctuary. This work will complement and build upon a similar effort currently being conducted by the BP for three sanctuaries in central California (Cordell Bank, Gulf of the Farallones, and Monterey Bay National Marine Sanctuaries). The biogeographic assessment for these three sanctuaries was conducted to identify important biological zones, time periods, and ecological linkages within an analysis area that extends from Point Arena in the north to Point Sal in the south. Furthermore, this study will incorporate data and information from a comprehensive west coast assessment completed by NOS in the late 1980s that resulted in the "West Coast of North America, Coastal and Ocean Zones, Strategic Assessment: Data Atlas". This Atlas contains maps of key biological, physical, and economic characteristics of the marine environment of the West Coast. The Atlas complemented the BP's Estuarine Living Marine Resources Program (ELMR) studies to define the biological and physical characteristics of adjacent estuarine systems, and included biogeographic analyses to define estuarine assemblages and inshore-offshore linkages between ecosystems.</purpose>
+			<supplinf>In compliance with the National Environmental Policy Act, the National Marine Sanctuary Program will incorporate this assessment with cultural and socio-economic analyses to prepare a Supplemental Environmental Impact Statement to fully analyze boundary change concepts.</supplinf>
+			<langdata Sync="TRUE">en</langdata>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2006</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-125.850000</westbc>
+				<eastbc Sync="TRUE">-117.764162</eastbc>
+				<northbc Sync="TRUE">40.246746</northbc>
+				<southbc Sync="TRUE">32.212313</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">-498272.514326</leftbc>
+				<rightbc Sync="TRUE">190230.537535</rightbc>
+				<topbc Sync="TRUE">247679.267777</topbc>
+				<bottombc Sync="TRUE">-630532.641653</bottombc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>CoRIS Theme Thesaurus Version 1.0</themekt>
+				<themekey>EARTH SCIENCE &gt; Oceans &gt; Marine Biology &gt; Marine Mammals</themekey>
+			</theme>
+			<place>
+				<placekey>California</placekey>
+				<placekey>Channel Islands</placekey>
+				<placekt>None</placekt></place>
+			<stratum>
+				<stratkey>Aerial surveys</stratkey>
+				<stratkt>None</stratkt></stratum>
+		</keywords>
+		<accconst>This data set is in the public domain.</accconst>
+		<useconst>This data set is provided "as-is" without warranty of any kind. The user assumes all responsibility for the accuracy and suitability of this data set for a particular purpose.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Randy Clark</cntper>
+					<cntorg>NOAA/NCCOS/CCMA/Biogeography Team</cntorg>
+				</cntperp>
+				<cntpos>Biogeography Team/CINMS Biogeographic Assessment Project Manager </cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1305 East-West Hwy.</address>
+					<address>SSMC 4, N/SCI-1</address>
+					<city>Silver Spring</city>
+					<state>Maryland</state>
+					<postal>20910</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>301-713-3028 x157</cntvoice>
+				<cntfax>301-713-4384</cntfax>
+				<cntemail>randy.clark@noaa.gov</cntemail>
+				<hours>8-5</hours>
+			</cntinfo>
+		</ptcontac>
+		<datacred>Aerial survey data used for production of this shapefile are available on CD-ROM, Marine Mammal and Seabird Computer Database Analysis System, Washington, Oregon, and California (1975-1997). See Source Information for additional citations of contributors to this data set.</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</native>
+		<natvform Sync="TRUE">Shapefile</natvform>
+	</idinfo>
+	<dataqual>
+		<logic>All shapefile attributes were checked for consistency of appropriate range values.</logic>
+		<complete>All shapefile cells have attribute information.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Department of the Interior, Minerals Management Service, Pacific OCS Region</origin>
+						<pubdate>200103</pubdate>
+						<title>Marine Mammal and Seabird Computer Database Analysis System, Washington, Oregon, and California 1975-1997, Version 2.1</title>
+						<geoform>vector digital data</geoform>
+						<onlink>http://green.env.duke.edu/datasets</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>CD-ROM</typesrc>
+				<srccitea>CDAS</srccitea><srccontr>These data were obtained to examine marine mammal density patterns off California.</srccontr></srcinfo>
+			<procstep>
+				<procdesc Sync="TRUE">Dataset copied.</procdesc>
+				<procdate>Unknown</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Randy Clark</cntper>
+							<cntorg>National Oceanic and Atmospheric Association (NOAA)/National Ocean Service (NOS)/National Centers for Coastal Ocean Science (NCCOS)/Center for Coastal Ocean Science (CCMA)/Biogeography Team</cntorg>
+						</cntperp>
+						<cntpos>Biogeography Team/CINMS Biogeographic Assessment Project Manager </cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>1305 East-West Hwy.</address>
+							<address>SSMC 4, N/SCI-1</address>
+							<city>Silver Spring</city>
+							<state>Maryland</state>
+							<postal>20910</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>301-713-3028 x157</cntvoice>
+						<cntfax>301-713-4384</cntfax>
+						<cntemail>randy.clark@noaa.gov</cntemail>
+						<hours>8-5</hours>
+					</cntinfo>
+				</proccont>
+				<date Sync="TRUE">20051209</date>
+				<time Sync="TRUE">14391700</time>
+				<srcused>CDAS</srcused></procstep>
+			<procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">T:\BIOGEO\Projects\CINMS\Data_CD\Birds_Mammals\cdas_bluewhale</srcused><date Sync="TRUE">20060120</date><time Sync="TRUE">16361300</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="cdas_bluewhale">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">87</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="cdas_bluewhale">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+				<spindex Sync="TRUE">FALSE</spindex>
+				<efeageom Sync="TRUE">Point</efeageom>
+				<efeacnt Sync="TRUE">87</efeacnt>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.002048</absres>
+						<ordres Sync="TRUE">0.002048</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Albers Conical Equal Area</mapprojn><albers><stdparll Sync="TRUE">34.000000</stdparll><stdparll Sync="TRUE">40.500000</stdparll><longcm Sync="TRUE">-120.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">-4000000.000000</fnorth></albers></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_North_American_1927</geogcsn>
+				<projcsn Sync="TRUE">teale</projcsn>
+			</cordsysn>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="cdas_bluewhale">
+			<enttyp>
+				<enttypl Sync="TRUE">cdas_bluewhale</enttypl>
+				<enttypc Sync="TRUE">87</enttypc>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypd>Blue whale density</enttypd><enttypds>MMS</enttypds></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">4</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attscale Sync="TRUE">0</attscale>
+				<attwidth Sync="TRUE">0</attwidth>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">ID</attrlabl>
+				<attrdef>Station ID</attrdef>
+				<attrdomv>
+					<udom>Unique station ID</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">ID</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DATE_</attrlabl>
+				<attrdef>date of observation</attrdef>
+				<attrdomv>
+					<udom>This field identifies the date of the observation.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DATE_</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TIME</attrlabl>
+				<attrdef>Time of observation</attrdef>
+				<attrdomv>
+					<udom>24 hour clock is used. Seconds may be blank, especially in earlier surveys.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TIME</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SPECIES</attrlabl>
+				<attrdef>Species code</attrdef>
+				<attrdomv>
+				</attrdomv>
+				<attalias Sync="TRUE">SPECIES</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">NUMBER</attrlabl>
+				<attrdef>Abundance</attrdef>
+				<attrdomv>
+					<udom>Number of animals counted in sighting</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NUMBER</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Latitude</attrlabl>
+				<attrdef>Latitude</attrdef>
+				<attrdomv>
+					<udom>Decimal degrees of latitude(Format=DDDD.DDDDD)</udom>
+				</attrdomv>
+				<atnumdec Sync="TRUE">11</atnumdec>
+				<attalias Sync="TRUE">Latitude</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WIDTH</attrlabl>
+				<attrdef>Transect width</attrdef>
+				<attrdomv>
+					<udom>Search corridor width (km)</udom>
+				</attrdomv>
+				<atnumdec Sync="TRUE">11</atnumdec>
+				<attalias Sync="TRUE">WIDTH</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">NEWBORNS</attrlabl>
+				<attrdef>Number of newborns</attrdef>
+				<attrdomv>
+					<udom>Number of newborns in sighting</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">NEWBORNS</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">MALES</attrlabl>
+				<attrdef>Adult male abundance</attrdef>
+				<attrdomv>
+					<udom>Number of adult males in sighting</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">MALES</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">FEMALES</attrlabl>
+				<attrdef>Adult female abundance</attrdef>
+				<attrdomv>
+					<udom>Number of adult females in sighting</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FEMALES</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DIRECTION</attrlabl>
+				<attrdef>Animal movement</attrdef>
+				<attrdomv>
+					<edom><edomv>1</edomv><edomvd>ranked/chorus line</edomvd><edomvds>MMS</edomvds></edom></attrdomv>
+				<attalias Sync="TRUE">DIRECTION</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">GROUP</attrlabl>
+				<attrdef>Group formation</attrdef>
+				<attrdomv>
+					<edom><edomv>1</edomv><edomvd>ranked/chorus line</edomvd><edomvds>MMS</edomvds></edom></attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>1= ranked/chorus line</edomv>
+					</edom>
+					<edom>
+						<edomv>2= tightly grouped/discoidal</edomv>
+					</edom>
+					<edom>
+						<edomv>3= spread with subschools</edomv>
+					</edom>
+					<edom>
+						<edomv>4= spread with subgroups</edomv>
+					</edom>
+					<edom>
+						<edomv>5= scattered</edomv>
+					</edom>
+					<edom>
+						<edomv>6= linear of file</edomv>
+					</edom>
+					<edom>
+						<edomv>7= pod</edomv>
+					</edom>
+					<edom>
+						<edomv>8= singleton</edomv>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">GROUP</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Longitude</attrlabl>
+				<attrdef>Longitude</attrdef>
+				<attrdomv>
+					<udom>Decimal degrees of longitude(Format=DDDD.DDDDD)</udom>
+				</attrdomv>
+				<atnumdec Sync="TRUE">11</atnumdec>
+				<attalias Sync="TRUE">Longitude</attalias>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<attrdefs>MMS</attrdefs></attr>
+		</detailed>
+		<overview>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Michael McCrary</cntper>
+					<cntorg>Minerals Management Service</cntorg>
+				</cntperp>
+				<cntemail>michael_mccrary@mms.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>Data available on CD</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">0.002</transize>
+					<dssize Sync="TRUE">0.002</dssize>
+					<formname>.shp</formname><filedec>no compression applied</filedec></digtinfo>
+			</digform>
+			<fees>unknown</fees>
+		</stdorder>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>unknown</caldate>
+					<time>unknown</time>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+		<custom>Order No. 1435-01-97-PO-14206</custom><distliab>This data set is provided "as-is" without warranty of any kind. The user assumes all responsibility for the accuracy and suitability of this data set for a particular purpose.</distliab></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20060120</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Randy Clark</cntper>
+					<cntorg>NOAA/NCCOS/CCMA/Biogeography Team </cntorg>
+				</cntperp>
+				<cntpos>Biogeography Team/CINMS Biogeographic Assessment Project Manager </cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1305 East-West Hwy</address>
+					<address>SSMC 4, N/SCI-1</address>
+					<city>Silver Spring</city>
+					<state>Maryland</state>
+					<postal>20910</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>301-713-3028 x157</cntvoice>
+				<cntfax>301-713-4384</cntfax>
+				<cntemail>randy.clark@noaa.gov</cntemail>
+				<hours>8-5</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metsi>
+			<metsc>Unclassified</metsc>
+		</metsi>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"></languageCode>
+		</dataLang>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">-125.85</westBL>
+			<northBL Sync="TRUE">40.246746</northBL>
+			<southBL Sync="TRUE">32.212313</southBL>
+			<eastBL Sync="TRUE">-117.764162</eastBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+		<idCitation>
+			<resTitle Sync="TRUE">cdas_bluewhale</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"></PresFormCd>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">-498272.514326</westBL>
+					<northBL Sync="TRUE">247679.267777</northBL>
+					<southBL Sync="TRUE">-630532.641653</southBL>
+					<eastBL Sync="TRUE">190230.537535</eastBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+	</dataIdInfo>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<linkage Sync="TRUE">file://\\NCCOS-s-FS01\Zshared\cinms_cd\chap_6_data\cdas_bluewhale</linkage>
+					<orDesc Sync="TRUE">002</orDesc>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.002</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">Shapefile</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+	<Esri>
+		<CreaDate>20060120</CreaDate>
+		<ModDate>20060120</ModDate>
+		<ModTime>16360600</ModTime>
+		<SyncDate>20060120</SyncDate>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncTime>16360600</SyncTime>
+		<CreaTime>16361300</CreaTime>
+		<DataProperties>
+			<lineage>
+				<Process Name="Project_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project" Date="20060112" Time="121052">Project cdas_ashystormpetrel T:\BIOGEO\Projects\CINMS\Data_CD\Birds_Mammals\cdas_ashystormpetrel_2.shp PROJCS['teale',GEOGCS['GCS_North_American_1927',DATUM['D_North_American_1927',SPHEROID['Clarke_1866',6378206.4,294.9786982]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Albers'],PARAMETER['False_Easting',0.0],PARAMETER['False_Northing',-4000000.0],PARAMETER['Central_Meridian',-120.0],PARAMETER['Standard_Parallel_1',34.0],PARAMETER['Standard_Parallel_2',40.5],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]] #</Process>
+			</lineage>
+		</DataProperties>
+		<MetaID>{01917906-D89B-4F09-97AF-1D3DE0D1669B}</MetaID></Esri>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"></CharSetCd>
+	</mdChar>
+	<mdDateSt Sync="TRUE">20060120</mdDateSt>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"></ScopeCd>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"></languageCode>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE">teale</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="001"></TopoLevCd>
+			</topLvl>
+			<geometObjs Name="cdas_bluewhale"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">87</geoObjCnt></geometObjs></VectSpatRep>
+	</spatRepInfo>
+</metadata>

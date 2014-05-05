@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Centers for Coastal Ocean Science (NCCOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Program</origin>
+				<pubdate>2001</pubdate>
+				<title Sync="TRUE">CINMS_Boundary_Concept_5</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://biogeo.nos.noaa.gov/</onlink>
+				<ftname Sync="TRUE">CINMS_Boundary_Concept_5</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This feature class contains Boundary Concept #5, which encompasses 1,411 square nautical miles and is closest among the concepts to the existing Sanctuary boundary.  Concept #5 essentially squares the existing curved edges of the Sanctuary boundary.  Like Concept #4, it does not include areas of the mainland coast and its associated coastal features and habitats.  Concept #5 includes all of the unique island habitats, but it does not include the connection to Santa Barbara.
+
+Boundary Concept #5 represents one (of six) options CINMS may choose when deciding how to best protect important social and cultural uses as well as nationally significant living resources. It is the result of collaboration between the CINMS Staff and the Sanctuary Advisory Council.  This boundary alternative was developed in 2000-2001 based on a set of administrative, social/cultural and ecosystem/ biogeographic criteria, which were developed and analyzed by the CINMS staff and reviewed at meetings of the Sanctuary Advisory Council.</abstract>
+			<purpose>CINMS'S HISTORY AND CURRENT BOUNDARIES:
+
+The Channel Islands NMS was designated as a Sanctuary in 1980 and encompasses an area of approximately 1,252 square nautical miles of rocky coastline, kelp beds, and sea floor. The Sanctuary extends from mean high tide seaward to a distance of 6 nautical miles offshore of the following islands and offshore rocks: San Miguel Island, Santa Cruz Island, Santa Rosa Island, Anacapa Island, Santa Barbara Island, Richardson Rock, and Castle Rock. These islands and offshore rocks are located offshore from Santa Barbara and Ventura Counties in southern California. The waters surrounding the Channel Islands were selected as a Sanctuary due to their unique geological formations, dynamic oceanographic processes, rich and productive natural resources, and cultural significance. This area was selected to provide adequate protection of these resources given the limited information on the spatial distribution of threats, uses, biota, and habitats that was available at the time.
+
+CINMS'S MANAGEMENT PLAN REVIEW PROCESS: 
+
+The NMSP is currently in the process of updating the management plan for the CINMS. The management plan has not been updated since 1983, and the status of natural resources and their management issues in and around the sanctuary has since changed, as well as the information base that was known at the time. Beginning in 2000, CINMS staff (working in close consultation with the Sanctuary Advisory Council) set about developing six preliminary boundary concepts based on several critieria, listed below.
+
+Administrative Criteria:
+1. Provides opportunity for ecosystem-based management
+2. Provides opportunity for integrated coastal watershed management.
+3. Supports, promotes, and coordinates scientific research.
+4. Cooperates with global programs.
+5. Contributes to comprehensive and coordinated conservation management.
+6. Facilitates public and prate uses compatible with resource protection.
+7. The area is suitable for monitoring and enforcement.
+
+Social/ Cultural Criteria:
+1. Contains nationally significant non-living or human use resources, nationally significant cultural, archaeological, historical or paleo-ecological resources, areas significant to research, education, and recreation or of aesthetic value.
+2. Contains resources that generate tourism, areas in which human activities are conducted that may need to be managed to protect resources, areas necessary to maintain access to larger areas.
+3. Future trends in uses that depend on, or impact, resources that should be considered.
+4. Impacts to socio-economic uses that may result from Sanctuary designation should it be considered.
+
+Ecosystem/ Biogeographic Criteria: 
+1. Contains nationally significant living resources; vital habitats, resources that need to be protected from human activities, and a definable ecosystem unit.
+2. Contributes to maintaining, restoring or enhancing living resources, biological diversity, ecosystem structure, and maintenance of ecologically and commercially important species, threatened species of assemblages.
+3. Contributes to the biogeographic representation of the site.
+
+NEXT STEP IN UPDATING CINMS'S MANAGEMENT PLAN: 
+
+As a supplement to the management plan review process, CINMS Staff and the Sanctuary Advisory Council will evaluate the six previously developed boundary alternatives from a biogeographic perspective. Identifying how these alternatives correspond to the distribution of critical biotic and habitat resources is a necessary component of assessing the potential efficacy of Sanctuary management objectives. Since the time of original designation, a wealth of in situ studies, local assessments (e.g., marine reserves analyses), and advancements in remote sensing have provided a variety of new spatial data that can be used to support and justify the selection of a boundary alternative.
+
+In order to help CINMS update its Management Plan, NOAA?s Biogeography Program (BP), in consultation with the National Marine Sanctuary Program (NMSP) conducted a spatially-articulated characterization of the marine fauna in and around CINMS. The study area extends from Morro Bay in the north to 30 kilometers south of Santa Catalina Island. This characterization began by gathering existing comprehensive and spatially explicit biological and environmental data from all available sources. Data extent, quality, and position within the study area were be evaluated. The results of this work will be used to identify both potentially important ecological areas and time periods.</purpose>
+			<supplinf>
+For more information on the status of CINMS's updated management plan, please see the following URLs: 
+
+Channel Islands National Marine Sanctuary Management Plan Review (Boundaries):
+http://www.cinms.nos.noaa.gov/manplan/boundaries.html
+
+NOAA's Biogeography Program: http://biogeo.nos.noaa.gov/projects/assess/ca_nms/cinms/
+</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>2000</begdate>
+					<enddate>2001</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-120.647823</westbc>
+				<eastbc Sync="TRUE">-118.889298</eastbc>
+				<northbc Sync="TRUE">34.205433</northbc>
+				<southbc Sync="TRUE">33.365008</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-59695.504379</leftbc><rightbc Sync="TRUE">102351.987315</rightbc><bottombc Sync="TRUE">-516151.479994</bottombc><topbc Sync="TRUE">-423549.005907</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>Political and Administrative Boundaries</themekt>
+				<themekey>National Marine Sanctuary</themekey>
+				<themekey>Boundary</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Channel Islands National Marine Sanctuary</placekey>
+				<placekey>San Miguel Island</placekey>
+				<placekey>Santa Cruz Island</placekey>
+				<placekey>Santa Rosa Island</placekey>
+				<placekey>Anacapa Island</placekey>
+				<placekey>Santa Barbara Island</placekey>
+				<placekey>Richardson Rock</placekey>
+				<placekey>Castle Rock</placekey>
+				<placekey>California</placekey>
+			</place>
+			<stratum>
+				<stratkt>None</stratkt>
+				<stratkey>None</stratkey>
+			</stratum>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2000-2001</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>Please cite the Channel Islands National Marine Sanctuary (CINMS) accordingly.</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Channel Islands National Marine Sanctuary</cntorg>
+					<cntper>Michael Murray</cntper>
+				</cntorgp>
+				<cntpos>Sanctuary Contact</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>113 Harbor Way, Suite 150</address>
+					<city>Santa Barbra</city>
+					<state>CA</state>
+					<postal>93109</postal>
+					<country>U.S.A.</country>
+				</cntaddr>
+				<cntvoice>(805) 884-1464</cntvoice>
+				<cntfax>(805) 382-9791</cntfax>
+				<cntemail>michael.murray@noaa.gov</cntemail>
+				<hours>9:00 am - 5:00 pm PST</hours>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secsys>None</secsys>
+			<secclass>Unclassified</secclass>
+			<sechandl>None</sechandl>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
+		<crossref>
+			<citeinfo>
+				<origin>Channel Islands National Marine Sanctuary</origin>
+				<pubdate>2001</pubdate>
+				<title>Channel Islands National Marine Sanctuary Management Plan Review</title>
+				<edition>1</edition>
+				<geoform>vector digital data</geoform>
+				<onlink>http://www.cinms.nos.noaa.gov/manplan/boundaries.html</onlink>
+			</citeinfo>
+		</crossref>
+		<natvform>ESRI Feature Class</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>None</attraccr>
+			<qattracc>
+				<attraccv>None</attraccv>
+				<attracce>None</attracce>
+			</qattracc>
+		</attracc>
+		<logic>None</logic>
+		<complete>None</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>None</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>None</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Channel Islands National Marine Sanctuary</origin>
+						<pubdate>2001</pubdate>
+						<title>alternative1_hole</title>
+						<geoform>vector digital data</geoform>
+						<onlink>http://www.cinms.nos.noaa.gov/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>ESRI vector polygon shapefile</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>2000</begdate>
+							<enddate>2001</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>CINMS</srccitea>
+				<srccontr>Channel Island National Marine Sanctuary</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Polygon based upon the analysis, consideration and integration of ecosystem/biogeographi criteria, social/cultural criteria and administrative/managment criteria</procdesc>
+				<procdate>2001</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Channel Islands National Marine Sanctuary</cntorg>
+							<cntper>Michael Murray</cntper>
+						</cntorgp>
+						<cntpos>Sanctuary Contact</cntpos>
+						<cntvoice>(805) 884-1464</cntvoice>
+						<cntfax>(805) 382-9791</cntfax>
+						<cntemail>michael.murray@noaa.gov</cntemail>
+						<hours>9:00 am - 5:00 pm PST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>p:\Workspace\Projects\CINMS\Metadata\CINMS_Boundary_Alternative_1</srcused>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\BRYAN~1.COS\LOCALS~1\Temp\xml8A.tmp</srcused><date Sync="TRUE">20051017</date><time Sync="TRUE">13565000</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">T:\BIOGEO\Projects\CINMS\Data_CD\Base\Boundaries\CINMS_Boundary_Concept_5</srcused><date Sync="TRUE">20051017</date><time Sync="TRUE">14530900</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">p:\Workspace\Projects\CINMS\Metadata\CINMS_Boundary_Concept_5</srcused><date Sync="TRUE">20051017</date><time Sync="TRUE">15004100</time></procstep></lineage>
+		<cloud>Unknown</cloud>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="CINMS_Boundary_Concept_5">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">8</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="CINMS_Boundary_Concept_5"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">8</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000256</absres>
+						<ordres Sync="TRUE">0.000256</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Albers Conical Equal Area</mapprojn><albers><stdparll Sync="TRUE">34.000000</stdparll><stdparll Sync="TRUE">40.500000</stdparll><longcm Sync="TRUE">-120.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">-4000000.000000</fnorth></albers></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1927</geogcsn><projcsn Sync="TRUE">teale</projcsn></cordsysn></horizsys>
+		<vertdef>
+			<altsys></altsys>
+			<depthsys></depthsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="CINMS_Boundary_Concept_5">
+			<enttyp>
+				<enttypl Sync="TRUE">CINMS_Boundary_Concept_5</enttypl>
+				<enttypd>ESRI feature class attribute table</enttypd>
+				<enttypds>None</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">8</enttypc></enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area of polygon</attrdef>
+				<attrdefs>NOAA</attrdefs>
+				<attrdomv>
+					<udom>Area of the feature</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Perimeter of the polygon</attrdef>
+				<attrdefs>NOAA</attrdefs>
+				<attrdomv>
+					<udom>Perimeter of the feature</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">18</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>ACRES</attrlabl>
+				<attrdef>Area of the polygon in acres</attrdef>
+				<attrdefs>NOAA</attrdefs>
+				<attrdomv>
+					<udom>Area of the polygon in acres</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">18</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr><attrlabl Sync="TRUE">STATES_</attrlabl><attalias Sync="TRUE">STATES_</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">STATES_ID</attrlabl><attalias Sync="TRUE">STATES_ID</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">STATE_NAME</attrlabl><attalias Sync="TRUE">STATE_NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">25</attwidth></attr><attr><attrlabl Sync="TRUE">STATE_FIPS</attrlabl><attalias Sync="TRUE">STATE_FIPS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr><attr><attrlabl Sync="TRUE">SUB_REGION</attrlabl><attalias Sync="TRUE">SUB_REGION</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">7</attwidth></attr><attr><attrlabl Sync="TRUE">STATE_ABBR</attrlabl><attalias Sync="TRUE">STATE_ABBR</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr><attr><attrlabl Sync="TRUE">POP1990</attrlabl><attalias Sync="TRUE">POP1990</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">POP1999</attrlabl><attalias Sync="TRUE">POP1999</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">POP90_SQMI</attrlabl><attalias Sync="TRUE">POP90_SQMI</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">HOUSEHOLDS</attrlabl><attalias Sync="TRUE">HOUSEHOLDS</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">MALES</attrlabl><attalias Sync="TRUE">MALES</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">FEMALES</attrlabl><attalias Sync="TRUE">FEMALES</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">WHITE</attrlabl><attalias Sync="TRUE">WHITE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">BLACK</attrlabl><attalias Sync="TRUE">BLACK</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">AMERI_ES</attrlabl><attalias Sync="TRUE">AMERI_ES</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">ASIAN_PI</attrlabl><attalias Sync="TRUE">ASIAN_PI</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">OTHER</attrlabl><attalias Sync="TRUE">OTHER</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">HISPANIC</attrlabl><attalias Sync="TRUE">HISPANIC</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">AGE_UNDER5</attrlabl><attalias Sync="TRUE">AGE_UNDER5</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">AGE_5_17</attrlabl><attalias Sync="TRUE">AGE_5_17</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">AGE_18_29</attrlabl><attalias Sync="TRUE">AGE_18_29</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">AGE_30_49</attrlabl><attalias Sync="TRUE">AGE_30_49</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">AGE_50_64</attrlabl><attalias Sync="TRUE">AGE_50_64</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">AGE_65_UP</attrlabl><attalias Sync="TRUE">AGE_65_UP</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">NEVERMARRY</attrlabl><attalias Sync="TRUE">NEVERMARRY</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">MARRIED</attrlabl><attalias Sync="TRUE">MARRIED</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">SEPARATED</attrlabl><attalias Sync="TRUE">SEPARATED</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">WIDOWED</attrlabl><attalias Sync="TRUE">WIDOWED</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">DIVORCED</attrlabl><attalias Sync="TRUE">DIVORCED</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">HSEHLD_1_M</attrlabl><attalias Sync="TRUE">HSEHLD_1_M</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">HSEHLD_1_F</attrlabl><attalias Sync="TRUE">HSEHLD_1_F</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">MARHH_CHD</attrlabl><attalias Sync="TRUE">MARHH_CHD</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">MARHH_NO_C</attrlabl><attalias Sync="TRUE">MARHH_NO_C</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">MHH_CHILD</attrlabl><attalias Sync="TRUE">MHH_CHILD</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">FHH_CHILD</attrlabl><attalias Sync="TRUE">FHH_CHILD</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">HSE_UNITS</attrlabl><attalias Sync="TRUE">HSE_UNITS</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">VACANT</attrlabl><attalias Sync="TRUE">VACANT</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">OWNER_OCC</attrlabl><attalias Sync="TRUE">OWNER_OCC</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">RENTER_OCC</attrlabl><attalias Sync="TRUE">RENTER_OCC</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">MEDIAN_VAL</attrlabl><attalias Sync="TRUE">MEDIAN_VAL</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">MEDIANRENT</attrlabl><attalias Sync="TRUE">MEDIANRENT</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">UNITS_1DET</attrlabl><attalias Sync="TRUE">UNITS_1DET</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">UNITS_1ATT</attrlabl><attalias Sync="TRUE">UNITS_1ATT</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">UNITS2</attrlabl><attalias Sync="TRUE">UNITS2</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">UNITS3_9</attrlabl><attalias Sync="TRUE">UNITS3_9</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">UNITS10_49</attrlabl><attalias Sync="TRUE">UNITS10_49</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">UNITS50_UP</attrlabl><attalias Sync="TRUE">UNITS50_UP</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">MOBILEHOME</attrlabl><attalias Sync="TRUE">MOBILEHOME</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">NO_FARMS87</attrlabl><attalias Sync="TRUE">NO_FARMS87</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">AVG_SIZE87</attrlabl><attalias Sync="TRUE">AVG_SIZE87</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">CROP_ACR87</attrlabl><attalias Sync="TRUE">CROP_ACR87</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">AVG_SALE87</attrlabl><attalias Sync="TRUE">AVG_SALE87</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">AREA_1</attrlabl><attalias Sync="TRUE">AREA_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">5</atnumdec></attr><attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">5</atnumdec></attr>
+			<attr><attrlabl Sync="TRUE">PERIMETE_1</attrlabl><attalias Sync="TRUE">PERIMETE_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">ALTERN5GEO</attrlabl><attalias Sync="TRUE">ALTERN5GEO</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">ALTERN5G_1</attrlabl><attalias Sync="TRUE">ALTERN5G_1</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NOAA Biogeography Department</cntorg>
+					<cntper>Randy Clark</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1305 East West Highway, SSMC 4 9th floor</address>
+					<city>Silver Spring</city>
+					<state>MD</state>
+					<postal>20910</postal>
+					<country>U.S.A.</country>
+				</cntaddr>
+				<cntvoice>(301) 713-3028</cntvoice>
+				<cntfax>(301) 713-4384</cntfax>
+				<cntemail>randy.clark@noaa.gov</cntemail>
+				<hours>9:00 am-4:00pm EST</hours>
+				<cntinst>Best to contact via email.</cntinst>
+			</cntinfo>
+		</distrib>
+		<resdesc>CD-ROM data</resdesc>
+		<distliab>None</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI feature class</formname>
+					<formverd>2001</formverd>
+					<formspec>ESRI feature class</formspec>
+					<formcont>CINMS Boundary Alternative #1</formcont>
+					<filedec>no compression applied</filedec>
+					<transize>0.149</transize>
+					<dssize Sync="TRUE">0.114</dssize></digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>CD-ROM</offmedia>
+						<reccap>
+							<recden>Unknown</recden>
+							<recdenu>Unknown</recdenu>
+						</reccap>
+						<recfmt>ESRI feature class</recfmt>
+						<compat>ESRI ArcView 3.x or higher</compat>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>Unknown</fees>
+			<ordering>Copies of CD-ROM may be obtained by contacting NOAA's Biogeography Department</ordering>
+			<turnarnd>Unknown</turnarnd>
+		</stdorder>
+		<custom>None</custom>
+		<techpreq>ESRI ArcView or ArcGIS</techpreq>
+		<availabl>
+			<timeinfo>
+				<sngdate>
+					<caldate>2006</caldate>
+				</sngdate>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20051017</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>NOAA Biogeography Program</cntorg>
+					<cntper>Randy Clark</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>1305 East West Highway, SCCMA 4, 9th floor</address>
+					<city>Silver Spring</city>
+					<state>MD</state>
+					<postal>20910</postal>
+					<country>U.S.A.</country>
+				</cntaddr>
+				<cntvoice>(301) 713-3028 EXT.157</cntvoice>
+				<cntfax>(301) 713-4388</cntfax>
+				<cntemail>randy.clark@noaa.gov</cntemail>
+				<hours>9:00 am - 5:00 pm</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metsi></metsi>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta>English</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20051017</CreaDate><CreaTime>15004100</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20051017</SyncDate><SyncTime>15292100</SyncTime><ModDate>20051017</ModDate><ModTime>15292100</ModTime><MetaID>{4250C08B-F1E3-4216-865A-88F82F70234C}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">CINMS_Boundary_Concept_5</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-59695.504379</westBL><eastBL Sync="TRUE">102351.987315</eastBL><northBL Sync="TRUE">-423549.005907</northBL><southBL Sync="TRUE">-516151.479994</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-120.647823</westBL><eastBL Sync="TRUE">-118.889298</eastBL><northBL Sync="TRUE">34.205433</northBL><southBL Sync="TRUE">33.365008</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\NCCOS-S-FS02\Biogeo\BIOGEO\Projects\CINMS\Data_CD\Base\Boundaries\CINMS_Boundary_Concept_5.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.114</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">teale</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="CINMS_Boundary_Concept_5"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">8</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20051017</mdDateSt></metadata>
